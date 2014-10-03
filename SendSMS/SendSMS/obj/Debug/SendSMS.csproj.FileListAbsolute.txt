@@ -1,0 +1,7 @@
+D:\Interlease\SMS\crmplugin\SendSMS\SendSMS\bin\Debug\SendSMS.dll.config
+D:\Interlease\SMS\crmplugin\SendSMS\SendSMS\bin\Debug\SendSMS.dll
+D:\Interlease\SMS\crmplugin\SendSMS\SendSMS\bin\Debug\SendSMS.pdb
+D:\Interlease\SMS\crmplugin\SendSMS\SendSMS\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Interlease\SMS\crmplugin\SendSMS\SendSMS\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Interlease\SMS\crmplugin\SendSMS\SendSMS\obj\Debug\SendSMS.dll
+D:\Interlease\SMS\crmplugin\SendSMS\SendSMS\obj\Debug\SendSMS.pdb
